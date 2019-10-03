@@ -6,3 +6,5 @@ Geographic profiling aims at highlighting the anchor point of an author of sever
 - the minimization of journeys-to-crime variance (Note that it does not require time data);
 
 For each method, the pixel that minimizes the value corresponds in theory to the anchor point.
+
+**IMPORTANT:** the [Skimage](https://scikit-image.org/docs/dev/api/skimage.html) library need to be installed. You can do it with [PyPi](https://pypi.org/project/skimage/).
