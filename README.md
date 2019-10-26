@@ -7,4 +7,4 @@ Geographic profiling aims at highlighting the anchor point of an author of sever
 
 For each method, the pixel that minimizes the value corresponds in theory to the anchor point.
 
-**IMPORTANT:** the [Skimage](https://scikit-image.org/docs/dev/api/skimage.html) library need to be installed. You can do it with [PyPi](https://pypi.org/project/skimage/).
+**IMPORTANT:** the [Skimage](https://scikit-image.org/docs/dev/api/skimage.html) and Pywt libraries need to be installed. You can do it with [PyPi](https://pypi.org/project/skimage/).
